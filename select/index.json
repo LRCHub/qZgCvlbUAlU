@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Living Hell",
+  "base_artist": "Bella Poarch",
+  "createdAt": "2026-02-09T16:33:19.064856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/01_Living_Hell_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Nuclear Assault",
+      "has_synced": true,
+      "path": "select/02_Living_Hell_Nuclear_Assault.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Misfits",
+      "has_synced": false,
+      "path": "select/03_Living_Hell_Misfits.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/04_Living_Hell_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holding Cells For The Living Hell",
+      "artist": "Stray from the Path",
+      "has_synced": true,
+      "path": "select/05_Holding_Cells_For_The_Living_Hell_Stray_from_the_Path.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lord of Darkness (Your Living Hell)",
+      "artist": "Grim Reaper",
+      "has_synced": true,
+      "path": "select/06_Lord_of_Darkness_(Your_Living_Hell)_Grim_Reaper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/07_Living_Hell_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Living Hell (feat. Blvkstn)",
+      "artist": "Skan feat. Lox Chatterbox, M.I.M.E & Blvkstn",
+      "has_synced": true,
+      "path": "select/08_Living_Hell_(feat._Blvkstn)_Skan_feat._Lox_Chatterbox,_M.I.M.E_&_Blvkstn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Living Hell (feat. Blvkstn)",
+      "artist": "Skan, Lox Chatterbox, M.I.M.E, Blvkstn",
+      "has_synced": true,
+      "path": "select/09_Living_Hell_(feat._Blvkstn)_Skan,_Lox_Chatterbox,_M.I.M.E,_Blvkstn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Ceremony",
+      "has_synced": false,
+      "path": "select/10_Living_Hell_Ceremony.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/11_Living_Hell_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Living Hell (Acoustic)",
+      "artist": "New Found Glory",
+      "has_synced": false,
+      "path": "select/12_Living_Hell_(Acoustic)_New_Found_Glory.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "U.D.O.",
+      "has_synced": true,
+      "path": "select/13_Living_Hell_U.D.O..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Dust Bolt",
+      "has_synced": true,
+      "path": "select/14_Living_Hell_Dust_Bolt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/15_Living_Hell_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Living Hell",
+      "artist": "Bella Poarch",
+      "has_synced": true,
+      "path": "select/16_Living_Hell_Bella_Poarch.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Undead Living Hell",
+      "artist": "Casket Robbery",
+      "has_synced": false,
+      "path": "select/17_Undead_Living_Hell_Casket_Robbery.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Living Hell",
+      "artist": "Bella Poarch",
+      "has_synced": false,
+      "path": "select/pl_01_Living_Hell_Bella_Poarch.txt"
+    }
+  ]
+}
